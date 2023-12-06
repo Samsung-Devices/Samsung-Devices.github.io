@@ -1,0 +1,16 @@
+encoding: UTF-8
+baseurl: ""
+url: ""
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - .jekyll-template/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
